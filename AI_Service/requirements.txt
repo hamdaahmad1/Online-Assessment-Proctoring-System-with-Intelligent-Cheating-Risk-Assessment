@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+opencv-python
+deepface
+mediapipe
+ultralytics
+silero-vad
+openai-whisper
+torch
+torchvision
